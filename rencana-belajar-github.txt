@@ -1,0 +1,8 @@
+rencana belajar web :
+- java script
+- PHP
+- Framwork PHP 
+  - Laravel
+
+- Framework JS
+  - ?
