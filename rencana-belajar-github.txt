@@ -3,9 +3,11 @@ rencana belajar web :
 - PHP
 - Framwork PHP 
   - Laravel
+  - ?
 
 - Framework JS
-  - ?
+  - angular
+  - react
 
 - keep learn
  - sampai mampos
