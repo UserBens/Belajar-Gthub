@@ -6,6 +6,8 @@ rencana belajar web :
 
 - Framework JS
   - vue
+  
+- Python
 
 - keep learn
  - sampai mampos
