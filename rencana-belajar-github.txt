@@ -5,7 +5,7 @@ rencana belajar web :
   - Laravel
 
 - Framework JS
-  - ?
+  - vue
 
 - keep learn
  - sampai mampos
