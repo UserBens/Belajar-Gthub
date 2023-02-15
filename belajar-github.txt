@@ -1,0 +1,5 @@
+mempelajari :
+- Laravel
+- Github
+- PHP
+- Java Script
